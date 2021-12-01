@@ -1,6 +1,6 @@
 # <center>Huayi Chen</center>  
 
-<center>2535 Waverley St, Winnipeg, Manitoba, R3Y 0Y2  </center>  
+<center></center>  
 
 <center>C:| (204) 396-2582  </center>  
 
@@ -18,15 +18,15 @@ Expected date of graduation: August 2022
 ***
 **Languages**
 + Java
-+ C
-+ C++
-+ Python
++ C/C++
++ R
 + SQL
 
 **Tools**
 + IDEA
-+ Visual Studio
-+ MySQL
++ R Studio
++ SQLite
++ Android Studio
 
 ### **<u>EXPERIENCE</u>**
 ***
