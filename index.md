@@ -40,7 +40,7 @@ Expected date of graduation: June 2022
   *(University of Manitoba, Summer 2019)*
 
 + TA in statistic  
-  *(University of Manitoba, winter 2020)*
+  *(University of Manitoba, Winter 2020)*
 
 
 ***Volunteer***
