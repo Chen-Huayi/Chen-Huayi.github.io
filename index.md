@@ -2,9 +2,7 @@
 
 <center></center>  
 
-<center>C:| (204) 396-2582  </center>  
-
-<center>E:| chenh4@myumanitoba.ca  </center>  
+<center>Email: huayi-chen@foxmail.com  </center>  
 
 
 ### **<u>EDUCATION</u>**
@@ -12,38 +10,45 @@
 **Bachelor of Science**  
 University of Manitoba  
 Major: Computer Science  
-Expected date of graduation: August 2022  
+Expected date of graduation: June 2022  
 
 ### **<u>TECHNICAL SKILLS</u>**
 ***
 **Languages**
-+ Java
 + C/C++
++ Java
++ Processing
++ Python
 + R
 + SQL
 
 **Tools**
++ Android Studio
++ CLion
++ DB Browser (SQLite)
 + IDEA
++ MySQL
++ Processing3
++ Pycharm
 + R Studio
 + SQLite
-+ Android Studio
 
 ### **<u>EXPERIENCE</u>**
 ***
 ***Work***
-+ Tutorial assistant in computer science  
-  *University of Manitoba, Winnipeg MB (Summer 2019)*
++ TA in computer science  
+  *(University of Manitoba, Summer 2019)*
 
-+ Tutorial assistant in statistic  
-  *University of Manitoba, Winnipeg MB (Winter 2020)*
++ TA in statistic  
+  *(University of Manitoba, winter 2020)*
 
 
 ***Volunteer***
 + Equipment manager  
-  *Gym of university of Manitoba, Winnipeg MB (Summer 2019)*
+  *(Gym of university of Manitoba, Summer 2019)*
 
 ### **<u>ACTIVITIES & INTERESTS</u>**
 ***
 + Graph design
-+ Coding
++ Reading
 + Travelling
