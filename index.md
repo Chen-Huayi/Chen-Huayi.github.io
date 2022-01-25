@@ -2,7 +2,7 @@
 
 <center></center>  
 
-<center>Email: huayi-chen@foxmail.com  </center>  
+<center>Email: chuaii12138@outlook.com  </center>  
 
 
 ### **<u>EDUCATION</u>**
