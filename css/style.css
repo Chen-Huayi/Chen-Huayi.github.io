@@ -156,7 +156,7 @@ ul,li{
 	line-height:22px;
 	text-align: center;
 	padding:14px 30px;
-	color:#ffffff;
+	color: #ffffff;
 	font-weight:500;
 	text-transform: uppercase;
 	letter-spacing:.5px;
@@ -165,7 +165,7 @@ ul,li{
 	-ms-border-radius: 40px;
 	-o-border-radius: 40px;
 	border-radius: 40px;
-	background: #9147ff;
+	background: transparent;
 }
 
 .btn-style-one:hover{
